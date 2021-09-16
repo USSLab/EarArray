@@ -6,12 +6,7 @@ DolphinAttacks (i.e., inaudible voice commands) modulate audible voices over ult
 
 <img src="./images/scene.png" alt="attack" style="zoom: 67%;" />
 
-# Background
-
-
-
-
-## Acoustic Modeling & Sound Field
+# Acoustic Modeling
 
 The acoustic attenuation difference of audible and inaudible voice.
 
